@@ -1,4 +1,4 @@
-A web page that renders itself:
+A web page that renders its own source code:
 
     <!DOCTYPE html><head><title>_</title></head>
     <body>
